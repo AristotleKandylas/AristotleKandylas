@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aristoteles Kandylas</h1>
-<h3 align="center">A passionate Data Scientist from Greece with with 3 years of experience in the data science domain</h3>
+<h3 align="center">A passionate Data Scientist from Greece with 3 years of experience in the data science domain</h3>
 
 - 🔭 I’m currently working on **various projects**
 
