@@ -16,8 +16,12 @@
   Hi There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="600" height="300"/>
+</div>
    
-     
+---    
 <h1 align="center">I'm Aristoteles Kandylas</h1>
 <h3 align="center">A passionate Data Scientist from Greece with 3 years of experience in the data science domain</h3>
 
