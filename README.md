@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aristoteles Kandylas</h1>
 <h3 align="center">A passionate Data Scientist from Greece with 3 years of experience in the data science domain</h3>
 
-- 🔭 I’m currently working on **various projects**
+- 🔭 I’m currently working on **various projects related to Data Science and Machine Learning**
 
-- 📫 How to reach me **aristoteleskandylas@gmail.com**
+- 📫 Want to reach me, just send me an email: **aristoteleskandylas@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
