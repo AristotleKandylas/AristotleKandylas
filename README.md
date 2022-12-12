@@ -27,7 +27,6 @@
 
 - 🔭 I’m currently working on **various projects related to Data Science and Machine Learning**
 
-- 📫 Want to reach me, just send me an email: **aristoteleskandylas@gmail.com**
 
 ---
 
