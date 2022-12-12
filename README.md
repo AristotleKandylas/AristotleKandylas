@@ -23,7 +23,7 @@
    
 ---    
 <h1 align="left"> :man_technologist: About me</h1>
-<h4 align="left">I am a passionate Data Scientist <img src="https://media.giphy.com/media/hXJY9RUAwSCrzi7EnA/giphy.gif" width="40"> from Greece</h4>
+<h4 align="left">I am a passionate Data Scientist <img src="https://media.giphy.com/media/10ppffwhOftLy0/giphy.gif" width="40"> from Greece</h4>
 
 - 🔭 I’m currently working on **various projects related to Data Science and Machine Learning**
 
