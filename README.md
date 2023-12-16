@@ -1,24 +1,13 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="100"/>
-</div> 
+<p align="center">
+    <img width="500" src="https://github.com/AristotleKandylas/AristotleKandylas/assets/107751800/23d27b63-2aca-4974-bba3-e7d0c28d1ced" alt="Material Bread logo">
+</p>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/aristoteles-kandylas/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+<h3 align="left"> About me </h3>
 
+<h4 align="left">I am a passionate Data Scientist from Greece</h4>
 
-<h1 align="center">
-  Hi There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
----    
-<h1 align="left"> :man_technologist: About me</h1>
-<h4 align="left">I am a passionate Data Scientist <img src="https://media.giphy.com/media/10ppffwhOftLy0/giphy.gif" width="40"> from Greece</h4>
-
-- 🔭 I’m currently working on **various projects related to Data Science and Machine Learning**
+- :briefcase: I’m currently working on **various projects related to Data Science and Machine Learning**
+- :mailbox_closed: Ask me anything here
 
 
 ---
