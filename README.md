@@ -14,10 +14,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="600" height="300"/>
-</div>
-   
 ---    
 <h1 align="left"> :man_technologist: About me</h1>
 <h4 align="left">I am a passionate Data Scientist <img src="https://media.giphy.com/media/10ppffwhOftLy0/giphy.gif" width="40"> from Greece</h4>
