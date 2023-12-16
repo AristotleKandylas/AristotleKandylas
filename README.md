@@ -2,12 +2,12 @@
     <img width="500" src="https://github.com/AristotleKandylas/AristotleKandylas/assets/107751800/23d27b63-2aca-4974-bba3-e7d0c28d1ced" alt="Material Bread logo">
 </p>
 
-<h3 align="left"> About me </h3>
+<h3 align="left">About me</h3>
 
 <h4 align="left">I am a passionate Data Scientist from Greece</h4>
 
 - :briefcase: Data Steward at <a href="https://github.com/UtrechtUniversity">Utrecht University</a>
-- :blue_heart: I love telling stories with data and train machines to improve daily life
+- :blue_heart: I love telling stories with data and training machines to improve daily life
 - :mailbox_closed: Ask me about anything <a href="https://github.com/AristotleKandylas/AristotleKandylas/issues">here</a>
 
 <h3 align="left"> :hammer_and_wrench: Languages and Tools:</h3>
