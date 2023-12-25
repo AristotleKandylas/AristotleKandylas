@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="500" src="https://github.com/AristotleKandylas/AristotleKandylas/assets/107751800/23d27b63-2aca-4974-bba3-e7d0c28d1ced" alt="Material Bread logo">
+    <img width="500" src="https://github.com/AristotleKandylas/AristotleKandylas/blob/main/images/new_github_logo.png" alt="Material Bread logo">
 </p>
 
 <h3 align="left">About me</h3>
