@@ -4,7 +4,7 @@
 
 <h3 align="left">About me</h3>
 
-<h4 align="left">I am a passionate Data Scientist from Greece</h4>
+<h4 align="left">I am a passionate Data Scientist from Greece.</h4>
 
 - :briefcase: Data Steward at <a href="https://github.com/UtrechtUniversity">Utrecht University</a>
 - :blue_heart: I love telling stories with data and training machines to improve daily life
